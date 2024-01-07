@@ -11,7 +11,7 @@ h1 {
     color: #800F2F;
     text-shadow: 0px 0px 8px #FFB3C1;
     margin-top: 30px;   
-    font-family: 'Caveat', cursive;
+    font-family: cursive;
 }
 
 button {
@@ -22,7 +22,7 @@ button {
     background-color: #800F2F;
     color: #FFF0F3;
     border-radius: 8px;
-    font-family: 'Caveat', cursive;
+    font-family: cursive;
 }
 
 #output {
