@@ -28,7 +28,8 @@ button {
 #output {
     border: 2px solid #FFF0F3;
     height: 300px;
-    margin: 0px 20px;
+    width: 300px;
+    margin: 0px auto;
     padding: 5px 0px;
     background-color: #FF8FA3;
     border-radius: 5px;
